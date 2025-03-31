@@ -2,9 +2,7 @@
 
 - 🔭 目前主要使用Golang参与容器（Kubernetes）相关的开发
 - 📫 与我联系的最佳方式是给我发送电子邮件。
-- 🌱 欢迎关注我的个人公众号：
 
-![学点程序](https://silenceper.oss-cn-beijing.aliyuncs.com/qrcode/search_study_program.png)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
