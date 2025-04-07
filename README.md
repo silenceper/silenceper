@@ -6,7 +6,9 @@
 
 公众号关注：
 
-![扫码_搜索联合传播样式-标准色版](https://github.com/user-attachments/assets/0712f6ee-41c0-46ef-a0e0-75bff84d6bad)
+![扫码_搜索联合传播样式-标准色版](https://github.com/user-attachments/assets/1aec9b2a-8936-4f28-9c7c-07045c3ef82f)
+
+
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
