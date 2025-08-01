@@ -6,7 +6,7 @@
 
 公众号关注：
 
-![扫码_搜索联合传播样式-标准色版](https://github.com/user-attachments/assets/1aec9b2a-8936-4f28-9c7c-07045c3ef82f)
+![img](https://silenceper.oss-cn-beijing.aliyuncs.com/qrcode/search_study_program.png)
 
 
 <!--
